@@ -14,7 +14,7 @@ const socialLinks: SocialLink[] = [
   {
     Icon: Instagram,
     name: 'Instagram',
-    link: 'https://www.instagram.com/omar_010751'
+    link: 'https://www.instagram.com/omalk298'
   },
   {
     Icon: Email,
