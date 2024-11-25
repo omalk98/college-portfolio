@@ -15,13 +15,13 @@ Images can also help to create a consistent look and feel for a product or servi
 When it comes to images in user interfaces, the file format is just as important as the image itself. Different file formats have different properties that affect the way an image is displayed on a screen. The most common image file formats for the web are JPEG, PNG, and GIF.
 
 1. JPEG (Joint Photographic Experts Group) is a lossy compression format that is best suited for photographs and images with many colors. It uses a mathematical formula to remove redundant information, resulting in smaller file sizes.
-![JPEG](/portfolio/images/blog/trash-monster.jpeg)
+![JPEG](/college-portfolio/images/blog/trash-monster.jpeg)
 
 2. PNG (Portable Network Graphics) is a lossless compression format that is best suited for graphics and images with limited colors. It uses a different mathematical formula to compress images, resulting in larger file sizes but preserving the image quality. It can also retain transparency, which is useful for cases which the image would like to blend better with the background.
-![PNG](/portfolio/images/blog/shrek.png)
+![PNG](/college-portfolio/images/blog/shrek.png)
 
 3. GIF (Graphics Interchange Format) is an 8-bit format that is best suited for animated images. It uses a limited color palette, so it is not recommended for photographs or images with many colors.
-![GIF](/portfolio/images/blog/thumbs-up.gif)
+![GIF](/college-portfolio/images/blog/thumbs-up.gif)
 
 ## File Size and User Experience
 
@@ -38,7 +38,7 @@ However, images and multimedia can also have negative effects on the user experi
 In conclusion, images play a critical role in the design of user interfaces, and it is important to consider the file format and file size when
 `,
   date: new Date(new Date('10 Feb 2023 02:20:56 GMT')),
-  image: '/portfolio/images/blog/banner/web-images.png'
+  image: '/college-portfolio/images/blog/banner/web-images.png'
 };
 
 export default post;

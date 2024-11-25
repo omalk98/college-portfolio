@@ -25,7 +25,7 @@ export default function SelfIntroduction() {
     <>
       <div className="intro-picture">
         <img
-          src="/portfolio/images/me.jpeg"
+          src="/college-portfolio/images/me.jpeg"
           alt="my picture"
           loading="lazy"
         />
@@ -34,7 +34,7 @@ export default function SelfIntroduction() {
         <h2>
           Hi
           <img
-            src="/portfolio/images/waving.gif"
+            src="/college-portfolio/images/waving.gif"
             alt="waving"
             loading="lazy"
             className="waving"

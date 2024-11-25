@@ -32,19 +32,19 @@ function NavList({ items }: NavListProps) {
 
 const list: NavItemProps[] = [
   {
-    link: '/portfolio/home',
+    link: '/college-portfolio/home',
     text: 'Home',
     icon: Home,
     color: 'green'
   },
   {
-    link: '/portfolio/projects',
+    link: '/college-portfolio/projects',
     text: 'Projects',
     icon: Projects,
     color: 'red'
   },
   {
-    link: '/portfolio/blog',
+    link: '/college-portfolio/blog',
     text: 'Blog',
     icon: Blog,
     color: 'orange'

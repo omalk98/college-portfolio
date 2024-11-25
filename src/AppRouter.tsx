@@ -10,10 +10,10 @@ export default function AppRouter() {
   return (
     <Suspense fallback={<Loader />}>
       <Routes>
-        <Route path='/portfolio'>
+        <Route path='/college-portfolio'>
           <Route
             index
-            element={<Navigate to='/portfolio/home' />}
+            element={<Navigate to='/college-portfolio/home' />}
           />
 
           <Route

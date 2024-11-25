@@ -40,7 +40,7 @@ MongoDB is also highly scalable and can be easily distributed across multiple se
 In conclusion, React, Redux, Node.js, Express, and MongoDB are the five most popular technologies used in full-stack web development. React provides a fast and efficient way to build user interfaces, while Redux makes it easy to manage the state of complex applications. Node.js provides a fast and scalable server-side runtime environment, while Express provides a simple and flexible way to build web applications using Node.js. Finally, MongoDB provides a scalable and flexible way to store and retrieve data in web applications.
 `,
   date: new Date('06 Feb 2023 01:31:11 GMT'),
-  image: '/portfolio/images/blog/banner/full-stack-dev.jpg'
+  image: '/college-portfolio/images/blog/banner/full-stack-dev.jpg'
 };
 
 export default post;

@@ -7,7 +7,7 @@ function Title() {
   return (
     <div className="head-title">
       <img
-        src="/portfolio/images/me.png"
+        src="/college-portfolio/images/me.png"
         alt="cartoon me"
         loading="lazy"
         className="logo"
@@ -24,7 +24,7 @@ function Resume() {
   return (
     <div className="resume">
       <a
-        href="/portfolio/resume.pdf"
+        href="/college-portfolio/resume.pdf"
         download="Omar-Hussein_resume.pdf"
         className="download-resume"
         title="Download Resume"

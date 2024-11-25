@@ -6,9 +6,9 @@ Audio is a crucial component in any multimedia presentation, whether it be a vid
 
 Can you hear the difference between these two tracks? (Use headphones for best results)
 #### High Quality WAV Stereo Track
-![Track Stereo](/portfolio/audio/calm.wav)
+![Track Stereo](/college-portfolio/audio/calm.wav)
 #### Low Quality MP3 Mono Track
-![Track Mono](/portfolio/audio/calm-mono.mp3)
+![Track Mono](/college-portfolio/audio/calm-mono.mp3)
 
 As you might be able to hear, the quality of the audio can have a significant impact on the user experience, bad quality audio can be distracting and annoying, while high quality audio can enhance the user's feeling of immersion.
 
@@ -48,15 +48,15 @@ Let's take a look at a few examples of how audio is used in different industries
 2. Video Production: In video production, audio is used to create a mood or atmosphere that complements the visuals. Music, sound effects, and voiceovers are all important considerations in creating a successful video. For example, a horror movie may use creepy music and eerie sound effects to heighten the suspense.
 
 3. Gaming: In gaming, audio is used to create a sense of immersion and provide feedback to the player. Sound effects can help to indicate that a player has successfully completed a task, while music can create a sense of tension or excitement. For example, in the game "Fortnite," the sound of a player's footsteps can indicate the presence of an opponent. And in Mortal Kombat, the classic **"FINISH HIM!"** and **"FATALITY!"** phrases signify a victorious win for the player.
-![Mortal Kombat](/portfolio/audio/finish-him.mp3)
-![Mortal Kombat](/portfolio/audio/fatality.mp3)
+![Mortal Kombat](/college-portfolio/audio/finish-him.mp3)
+![Mortal Kombat](/college-portfolio/audio/fatality.mp3)
 
 ## Conclusion
 
 Audio plays a vital role in user experience and multimedia presentations. It can enhance the user's feeling of immersion, provide feedback, and create a mood or atmosphere that complements the visuals. When designing a product or service, it is important to consider the role of audio and choose the appropriate format to deliver an optimal and high-quality user experience.
     `,
   date: new Date('16 Feb 2023 20:24:56 GMT'),
-  image: '/portfolio/images/blog/banner/web-audio.jpg'
+  image: '/college-portfolio/images/blog/banner/web-audio.jpg'
 };
 
 export default post;

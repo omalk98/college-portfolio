@@ -19,7 +19,7 @@ Here are some reasons why implementing web usability is crucial for websites:
 In conclusion, implementing web usability is crucial for websites in today's digital age. Not only does it improve the user experience, but it also enhances the brand image, increases engagement, and can lead to higher search engine rankings. Investing in web usability can pay off in the long run and help you achieve your goals.
 `,
   date: new Date(new Date('06 Feb 2023 17:14:36 GMT')),
-  image: '/portfolio/images/blog/banner/web-usability.jpg'
+  image: '/college-portfolio/images/blog/banner/web-usability.jpg'
 };
 
 export default post;

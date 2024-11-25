@@ -8,7 +8,7 @@ Film making and editing are complex and nuanced processes that require a combina
 
 As a simple example, I shot this short video using my phone and edited in Premiere Pro. I used a few simple techniques to make it look more professional while keeping it internet casual. It showcases how different lighting and angles and music can affect the perception of a scene. I hope you enjoy it!
 
-![Hacker-Film](/portfolio/video/hacker-film.webm)
+![Hacker-Film](/college-portfolio/video/hacker-film.webm)
 
 You can also see the full quality version at https://www.youtube.com/watch?v=x3OPmVx2yp0
 
@@ -61,7 +61,7 @@ When it comes to making a film, there are three distinct stages of the process: 
 The process of making a film involves several stages, each of which plays a critical role in the final product. By carefully planning and executing each stage, from pre-production to post-production, filmmakers can create compelling and engaging films that entertain audiences and leave a lasting impression. Film making and editing require a combination of creative vision, technical skill, and attention to detail. By following these guidelines and best practices, you can create a professional-quality film that engages and entertains your audience.
   `,
   date: new Date('24 Mar 2023 01:20:44 GMT'),
-  image: '/portfolio/images/blog/banner/film-making.jpg'
+  image: '/college-portfolio/images/blog/banner/film-making.jpg'
 };
 
 export default post;

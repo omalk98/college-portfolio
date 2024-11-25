@@ -12,7 +12,6 @@ import {
 import {
   SiOpencv,
   SiPython,
-  SiJava,
   SiJavascript,
   SiTypescript,
   SiCplusplus,
@@ -26,7 +25,7 @@ import {
   SiGo,
   SiSpringboot
 } from 'react-icons/si';
-import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaInstagram, FaJava } from 'react-icons/fa';
 import { BiMailSend, BiNetworkChart, BiMicrochip } from 'react-icons/bi';
 import { IconType } from 'react-icons';
 
@@ -47,7 +46,7 @@ export {
   BsFillFilePdfFill as PDF,
   SiOpencv as OpenCV,
   SiPython as Python,
-  SiJava as Java,
+  FaJava as Java,
   SiJavascript as Javascript,
   SiTypescript as Typescript,
   SiCplusplus as CPP,

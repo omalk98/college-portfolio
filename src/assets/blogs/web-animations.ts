@@ -10,7 +10,7 @@ Animations have become an essential part of multimedia as they can improve user 
 
 Moreover, animations can be used to evoke emotions in users, making them more likely to engage with the content. For example, in advertisements, animations can be used to create emotional connections with viewers, resulting in increased brand awareness and sales. Animations can also be used to add humor or excitement to multimedia content, making it more entertaining and enjoyable for users.
 
-![animation](/portfolio/images/blog/screen-animation.gif)
+![animation](/college-portfolio/images/blog/screen-animation.gif)
 
 ## Benefits and Drawbacks of Animations
 
@@ -42,7 +42,7 @@ This website is an example of a website that uses animations to enhance user exp
 
 There are numerous animation creating platforms available, and each has its strengths and weaknesses. Here are some of the most famous animation creating platforms:
 
-![animation](/portfolio/images/blog/running-animation.gif)
+![animation](/college-portfolio/images/blog/running-animation.gif)
 
 1. Adobe Animate: A powerful animation software that allows users to create vector-based animations for multimedia content. It is widely used in the animation industry and is popular among professional animators.
 
@@ -55,7 +55,7 @@ There are numerous animation creating platforms available, and each has its stre
 Animations are an essential part of modern multimedia, and they can significantly enhance user experience and engagement. Animations can be used to explain complex concepts, evoke emotions, and add entertainment value to multimedia content. However, poorly executed animations can have the opposite effect, making the user experience worse. Therefore, it is crucial to use animations thoughtfully and in moderation. There are numerous animation creating platforms available, each with its strengths and weaknesses. The most famous animation creating platforms include Adobe Animate, Toon Boom Harmony, and Blender.
   `,
   date: new Date(new Date('06 Feb 2023 17:14:36 GMT')),
-  image: '/portfolio/images/blog/banner/web-animation.gif'
+  image: '/college-portfolio/images/blog/banner/web-animation.gif'
 };
 
 export default post;
