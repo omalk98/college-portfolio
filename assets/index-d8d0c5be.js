@@ -1,1 +1,0 @@
-import{j as s}from"./index-69851f50.js";import{s as r}from"./social-media-links-fa58e2a8.js";function e({Icon:i,link:a,name:n}){return s.jsx("li",{className:"social-icon",title:n,children:s.jsx("a",{href:a,target:"_blank",children:s.jsx(i,{})})})}function c(){return s.jsx("ul",{className:"social-links",children:r.map(i=>s.jsx(e,{...i},i.name))})}export{c as S};
